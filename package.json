@@ -1,0 +1,28 @@
+{
+  "name": "sdkdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.3",
+    "sass": "^1.52.2",
+    "vconsole": "^3.15.0",
+    "vite": "^2.9.9"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.0.6",
+    "ali-oss": "^6.17.1",
+    "axios": "^0.27.2",
+    "element-plus": "^2.2.4",
+    "meishewasmloader": "^2.0.1",
+    "vue": "^3.2.36",
+    "lodash":"^4.17.21",
+    "mp4box":"^0.5.3",
+    "exifreader":"^4.26.1"
+  }
+}
